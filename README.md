@@ -31,3 +31,9 @@ In this milestone, we focused on:
 * Understanding the basics of database schema design in MongoDB.
 * Understanding the importance of user authentication.
 * Setting up the project repository on GitHub.
+
+## Milestone 2 Summary
+
+* Seperate folder for frontend and backend.
+* A functional Login Page in the frontend.
+* Completed settings for tailwind-css.
