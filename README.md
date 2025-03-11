@@ -53,3 +53,7 @@ In this milestone, we focused on:
   # Milestone 5
   - created the* signup pagein react added code for sign up in backed also.
   - Added the signup page validation in (Signup, login).
+
+  # Milestone 6 : **Password Hashing by Using Bcryptjs**
+  - added the **password encryption** in backend signup page.
+  - added comparision for checking password is correct or not in login backend.
