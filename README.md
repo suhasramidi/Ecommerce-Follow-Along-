@@ -49,4 +49,7 @@ In this milestone, we focused on:
   - created the *user model* in mongoose to define user data structure.
   - Developed the *User controller* to manage user authentication(signup, login).
   - Implemented *Multer for filr handling*, allowing user profile and product image.
-  
+
+  # Milestone 5
+  - created the* signup pagein react added code for sign up in backed also.
+  - Added the signup page validation in (Signup, login).
