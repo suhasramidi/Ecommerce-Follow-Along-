@@ -57,3 +57,5 @@ In this milestone, we focused on:
   # Milestone 6 : **Password Hashing by Using Bcryptjs**
   - added the **password encryption** in backend signup page.
   - added comparision for checking password is correct or not in login backend.
+
+  Updated for milestone 7 assignment
